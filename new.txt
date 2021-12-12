@@ -1,0 +1,2 @@
+Tis is the write command
+write  in  file 
